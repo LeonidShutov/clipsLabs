@@ -6,7 +6,7 @@
 =>
     (printout t "Arithmetic Difficults detected" crlf)
 )
-(defrule ArithmeticDifficult 
+(defrule ArithmeticNotDifficult 
     (or
     
     		(add-difclt no)
